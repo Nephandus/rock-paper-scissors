@@ -1,0 +1,1 @@
+ This is a Rock, Paper, Scissors game for TheOdinProject. ATM, it only has a crude prompt and only displays on the console log, but it's supposed to be modified in a future assigment, apparently to something graphical.
