@@ -1,1 +1,1 @@
- This is a Rock, Paper, Scissors game for TheOdinProject. ATM, it only has a crude prompt and only displays on the console log, but it's supposed to be modified in a future assigment, apparently to something graphical.
+ This is a Rock, Paper, Scissors game for TheOdinProject. This is the second version, slightly less crude and slightly graphical. It's only meant for simple JS DOM manipulation from a base container div. As with the last web-console-only version, I'm assuming a future assignment will make a fancier version.
